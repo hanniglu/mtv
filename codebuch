@@ -1,0 +1,18 @@
+CODEBUCH								
+																
+Wert
+					
+edgelist								
+from=Entspricht ID in der Nodelist						
+to=Entspricht ID in der Nodelist	
+						
+								
+nodelist								
+id=Numerisch							
+name=Vor- und Nachname der Spielerin; Vereinsname							
+type=0 = person; 1 = organisation; 2 = Heimatland							
+birth=Geburtsjahr							
+age=Altersgruppen in Jahren; 0 = unter 20, 1 = 21-23, 2 = 24-26, 3 = über 27							
+position=Spielposition; 0 = Mittelblock, 1 = Zuspiel, 2 = Außenangriff, 3 = Diagonal, 4 = Libera, 							
+country=Geburtsland; 0 = Belgien; 1 = Bulgarien; 2 = Deutschland; 3 = Finnland; 4 = Niederlande; 5 = Polen; 6 = Spanien; 7 = USA					
+start=Vereinsmitglied seit Jahr							
